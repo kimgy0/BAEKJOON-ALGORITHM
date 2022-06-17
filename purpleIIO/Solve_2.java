@@ -80,7 +80,7 @@ public class Solve_2 {
         }
 
         sort(arr, 0, arr.length - 1);
-        
+
         System.out.println(solve(arr,0,arr.length - 1));
     }
 }
